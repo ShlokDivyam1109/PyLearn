@@ -1,4 +1,4 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# ImMortal ♥️ Python
 
 Author: Shlok Divyam
 Project: Learning to Code in Python
