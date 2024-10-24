@@ -1,7 +1,7 @@
 # GitHub Codespaces ♥️ Jupyter Notebooks
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Author: Shlok Divyam
+Project: Learning to Code in Python
+Description: In this simple project, I will be teaching how to use Python Programming for beginners. I have divided this project into several different parts for reader's ease. Please complete only one Jupyter notebook per day. Also try to solve the questions given at the end of each notebooks to be able to apply the concepts learned. The Jupyter notebooks are stored in the "notebooks" folder.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+I am just a young guy who has recently started to write on social platforms. I apologize for any inconvenience caused, or mistakes done. Please help me to improve this project by starring, commenting, and sharing it with many people. It would be greatly appreciated!
